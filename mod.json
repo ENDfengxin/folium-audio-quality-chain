@@ -1,0 +1,14 @@
+{
+  "folium": 1,
+  "id": "audio-quality-chain",
+  "name": "音质链",
+  "version": "1.0.0",
+  "author": "ENDfengxin",
+  "description": "在播放详情页查看当前歌曲的音源格式、采样率、位深，以及播放上下文到设备输出采样率。",
+  "client": "client.mjs",
+  "main": "main.cjs",
+  "preview": "preview.jpg",
+  "permissions": [
+    "playback.read"
+  ]
+}
